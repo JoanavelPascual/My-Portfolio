@@ -1,3 +1,9 @@
 body {
     background: teal;
 }
+h1 {
+    text-decoration-color: blueviolet;
+}
+img {
+    height: 150px;
+}
