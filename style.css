@@ -1,9 +1,15 @@
 body {
-    background: teal;
+    background: gr;
 }
 h1 {
-    text-decoration-color: blueviolet;
+    color: blueviolet;
 }
 img {
     height: 150px;
+}
+p {
+    font-style: bold;
+}
+h2 {
+    color:darkgoldenrod
 }
